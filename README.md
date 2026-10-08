@@ -4,12 +4,12 @@ For this project, my group analyzed data from the 2025 Times Higher Education Wo
 
 ##Table Of Contents
 
--[Project Title](#Project-Title)
--[Description](#Description)
--[Tools Used](#Tools-Used)
--[Files Used](#Files-Used)
--[How To Run Program](#How-To-Run-Program)
--[Additional Information](#Additional-Information)
+-[PROJECT TITLE](#Project-Title)
+-[DESCRIPTION](#Description)
+-[TOOLS USED](#Tools-Used)
+-[FILES USED](#Files-Used)
+-[HOW TO RUN PROGRAM](#How-To-Run-Program)
+-[ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
 
