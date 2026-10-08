@@ -8,8 +8,6 @@ For this project, my group analyzed data from the 2025 Times Higher Education Wo
 -[DESCRIPTION](#Description)
 -[TOOLS USED](#Tools-Used)
 -[FILES USED](#Files-Used)
--[HOW TO RUN PROGRAM](#How-To-Run-Program)
--[ADDITIONAL INFORMATION](#Additional-Information)
 
 ## Project Title
 
@@ -22,7 +20,11 @@ This project focuses on analyzing university ratings using data from the 2025 Ti
 ## Tools Used
 
 Microsoft Excel: Used to organize and randomly sample the university ratings dataset
+
 Kaggle: Source of the original university ratings dataset from the 2025 Times Higher Education World University Rankings
 
 ## Files Used
 
+The data in `UniversityRatings_1.xlsx` is adapted from the Kaggle dataset
+[WORLD UNIVERSITY RANKING](https://www.kaggle.com/datasets/aritra100/world-university-ranking)
+by aritra100, which contains 2025 World University Rankings data originally published by Times Higher Education
